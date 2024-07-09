@@ -1,5 +1,5 @@
 # ATTENTION!
-On Windows 10, the setup file and the app are flagged as malitious software. In the file there aren't any viruses (is a false positive, in Windows 11 they aren't flagged), so, on Windows 10, I reccommend to download the zip file `Windows 10 app`, who contains the `.py` file and the assets folder. To make the software work properly, the Python file and the assets folder have to be placed in the same directory.
+On Windows 10, the setup file and the app can be flagged as malitious software. In the file there aren't any viruses (is a false positive, in Windows 11 they aren't flagged), so, on Windows 10, if you don't trust my software, I reccommend to download the zip file `Windows 10 app`, who contains the `.py` file and the assets folder. To make the software work properly, the Python file and the assets folder have to be placed in the same directory.
 
 # Description
 This software is completely developed in Python language and converted in `.exe` with the nuitka Python library.
