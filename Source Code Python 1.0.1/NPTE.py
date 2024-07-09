@@ -1,3 +1,6 @@
+#Developed by Anakin_bb8
+#Granted under MIT license
+
 from pathlib import Path
 from tkinter import Tk, Canvas, Entry, Button, PhotoImage, messagebox, filedialog
 import tkinter as tk
