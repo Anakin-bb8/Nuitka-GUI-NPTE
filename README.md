@@ -1,3 +1,5 @@
+# Now avaiable on MacOS!
+(to install, go on the MacOS branch and download the latest release)
 # Description
 This software is completely developed in Python language and converted in `.exe` with the nuitka Python library.
 The app is made to simplify the creation of Windows executables.
