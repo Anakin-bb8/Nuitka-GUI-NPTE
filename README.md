@@ -1,5 +1,6 @@
 # Now avaiable on MacOS!
-To install, go in the MacOS folder and download the latest release (Is highly raccomended to follow the instructions below)
+To install, go in the MacOS folder and download the latest release (Is highly raccomended to follow the instructions below) NOTE: On macos, to set the icon you will need to install the imageio plugin with: `pip3 install imageio`.
+
 # Description
 This software is completely developed in Python language and converted in `.exe` with the nuitka Python library.
 The app is made to simplify the creation of Windows executables.
