@@ -24,3 +24,11 @@ To utilize the app, you have to insert your program infos (Name, Author...), the
 
 ## Installation
 To install the software, you have to chose the release wich you prefer from the releases section, then download the `NPTEInstaller{version}.dmg` and open him, then drag the NPTE app to the applications folder. After that, open `Privacy and Security` in the system settings and authorize the execution of the software. You can also download the zip file with the Python file and the assets folder.
+
+## Requirements
+- Python 3.* or higher
+- Nuitka
+- Imageio (on MacOS)
+- XCode Command Line Tools (on MacOS)
+- Windows 10/11 x64
+- MacOS 10.13 High Sierra or higher
