@@ -20,7 +20,7 @@ To install the software, you have to chose the release wich you prefer from the 
 ## How to use
 To utilize the app, you have to insert your program infos (Name, Author...), then click on the "Start Build" button. The software will create a `Build.sh` file, that you have to execute to convert your Python script into a fully working MacOS application!
 
-![Screenshot 2024-07-07 143200](https://github.com/Anakin-bb8/NPTE-Nuitka_Python_to_Exexutables/assets/174937049/3b03cef6-2d3c-4616-8b16-42ea5537a07a)
+![Schermata 2024-09-24 alle 18 40 07](https://github.com/user-attachments/assets/78a2de14-f0f5-4954-a564-5d589784d522)
 
 ## Installation
 To install the software, you have to chose the release wich you prefer from the releases section, then download the `NPTEInstaller{version}.dmg` and open him, then drag the NPTE app to the applications folder. After that, open `Privacy and Security` in the system settings and authorize the execution of the software. You can also download the zip file with the Python file and the assets folder.
