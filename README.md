@@ -1,5 +1,5 @@
 # Now avaiable on MacOS!
-To install, go in the MacOS folder and download the latest release (Is highly raccomended to follow the instructions below) NOTE: On macos, to set the icon you will need to install the imageio plugin with: `pip3 install imageio`.
+To install, go in the MacOS folder and download the latest release (Is highly raccomended to follow the instructions below) NOTE: On macos, if you want to set the icon from a .png or .jpeg file you will need to install the imageio plugin with: `pip3 install imageio`.
 
 # Description
 This software is completely developed in Python language and converted in `.exe` with the nuitka Python library.
@@ -24,6 +24,11 @@ To utilize the app, you have to insert your program infos (Name, Author...), the
 
 ## Installation
 To install the software, you have to chose the release wich you prefer from the releases section, then download the `NPTEInstaller{version}.dmg` and open him, then drag the NPTE app to the applications folder. After that, open `Privacy and Security` in the system settings and authorize the execution of the software. You can also download the zip file with the Python file and the assets folder.
+
+You can also install the software by the .pkg file:
+- Go to the MacOS folder and download the `NPTEInstaller{version}.pkg` file,
+- Double click it.
+- To allow the opening of the file, you'll have to go to the setting, then privacy and security, and click on "Open anyways".
 
 ## Requirements
 - Python 3.* or higher
