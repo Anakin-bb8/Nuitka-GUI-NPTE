@@ -1,3 +1,8 @@
+[![Latest Release](https://img.shields.io/github/v/release/Anakin-bb8/Nuitka-GUI-NPTE?label=Latest%20Release&color=007ec6)](https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases)
+![Downloads](https://img.shields.io/github/downloads/Anakin-bb8/Nuitka-GUI-NPTE/total?label=Downloads&color=007ec6)
+![Open Issues](https://img.shields.io/github/issues/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues)
+![Closed Issues](https://img.shields.io/github/issues-closed/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues)
+![Stars](https://img.shields.io/github/stars/Anakin-bb8/Nuitka-GUI-NPTE?label=Stars&color=007ec6)
 # Now avaiable on MacOS!
 To install, go in the MacOS folder and download the latest release (Is highly raccomended to follow the instructions below) NOTE: On macos, if you want to set the icon from a .png or .jpeg file you will need to install the imageio plugin with: `pip3 install imageio`.
 
