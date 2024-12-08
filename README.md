@@ -10,12 +10,6 @@
   <img src="https://img.shields.io/github/issues-closed/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=25A18E" alt="Closed Issues">
   <img src="https://img.shields.io/github/stars/Anakin-bb8/Nuitka-GUI-NPTE?label=Stars&color=7AE582" alt="Stars">
 </p>
-
-
-
-
-#
-
 # Contents:
 [Description](#description)
 <details>
