@@ -52,12 +52,12 @@ To install the software, you have to chose the release wich you prefer from the 
 
 # MacOS
 
-## How to use
+## How to use on MacOS
 To utilize the app, you have to insert your program infos (Name, Author...), then click on the "Start Build" button. The software will create a `Build.sh` file, that you have to execute to convert your Python script into a fully working MacOS application!
 
 ![Schermata 2024-09-24 alle 18 40 07](https://github.com/user-attachments/assets/78a2de14-f0f5-4954-a564-5d589784d522)
 
-## Installation
+## MacOS Installation
 You can install the software by the .pkg file:
 - Go to the releases section and download the `NPTEInstaller{version}.pkg` file,
 - Double click it.
