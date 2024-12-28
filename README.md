@@ -12,7 +12,7 @@
 </p>
 
 ## Visit the official site: [NPTE](https://anakin-bb8.github.io/Nuitka-GUI-NPTE/)
-
+## Collaborators are welcome! 😊
 # Contents:
 [Description](#description)
 <details>
