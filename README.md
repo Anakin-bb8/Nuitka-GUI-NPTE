@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Icons/icon.png"  alt="Icona App" width="170" height="170">
+  <a href="https://anakin-bb8.github.io/Nuitka-GUI-NPTE/"><img src="Icons/icon.png" alt="Icona App" width="170" height="170"></alt>
   <br>
   <br>
   <a href="https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases">
