@@ -2,16 +2,14 @@
   <a href="https://anakin-bb8.github.io/Nuitka-GUI-NPTE/"><img src="Icons/icon.png" alt="Icona App" width="170" height="170"></alt>
   <br>
   <br>
-  <a href="https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases">
-    <img src="https://img.shields.io/github/v/release/Anakin-bb8/Nuitka-GUI-NPTE?label=Latest%20Release&color=004E64" alt="Latest Release">
-  </a>
-  <img src="https://img.shields.io/github/downloads/Anakin-bb8/Nuitka-GUI-NPTE/total?label=Downloads&color=00A5CF" alt="Downloads">
-  <img src="https://img.shields.io/github/issues/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=9FFFCB" alt="Open Issues">
-  <img src="https://img.shields.io/github/issues-closed/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=25A18E" alt="Closed Issues">
-  <img src="https://img.shields.io/github/stars/Anakin-bb8/Nuitka-GUI-NPTE?label=Stars&color=7AE582" alt="Stars">
+  <a href="https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases"><img src="https://img.shields.io/github/v/release/Anakin-bb8/Nuitka-GUI-NPTE?label=Latest%20Release&color=informational&style=flat-square" alt="Latest Release"></a>
+  <img src="https://img.shields.io/github/downloads/Anakin-bb8/Nuitka-GUI-NPTE/total?style=flat-square&color=informational" alt="Downloads">
+  <img src="https://img.shields.io/github/issues/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=critical&style=flat-square" alt="Open Issues">
+  <img src="https://img.shields.io/github/issues-closed/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=green&style=flat-square" alt="Closed Issues">
+  <img src="https://img.shields.io/github/stars/Anakin-bb8/Nuitka-GUI-NPTE?label=Stars&color=7AE582&style=social" alt="Stars">
   <br>
   <br>
-  <a href="#how-to-install-from-winget"><img src="Icons/Get_On_Winget.png" width="350" alt="Get on Winget"></a>
+  <a href="#how-to-install-from-winget"><img src="Icons/Get_On_Winget.png" width="250" alt="Get on Winget"></a>
   <br>
 </p>
 
