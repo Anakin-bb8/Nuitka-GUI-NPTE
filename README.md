@@ -9,9 +9,15 @@
   <img src="https://img.shields.io/github/issues/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=9FFFCB" alt="Open Issues">
   <img src="https://img.shields.io/github/issues-closed/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=25A18E" alt="Closed Issues">
   <img src="https://img.shields.io/github/stars/Anakin-bb8/Nuitka-GUI-NPTE?label=Stars&color=7AE582" alt="Stars">
+  <br>
+  <br>
+  <a href="#how-to-install-from-winget"><img src="Icons/Get_On_Winget.png" width="350" alt="Get on Winget"></a>
+  <br>
 </p>
 
+
 ## Visit the official site: [NPTE](https://anakin-bb8.github.io/Nuitka-GUI-NPTE/)
+
 ## Collaborators are welcome! 😊
 # Contents:
 [Description](#description)
@@ -20,6 +26,7 @@
 
   - [How to use](#how-to-use-on-windows)
   - [Installation](#windows-installation)
+  - [Winget Installation](#how-to-install-from-winget)
 </details>
 <details>
   <summary>MacOS</summary>
@@ -46,6 +53,9 @@ To utilize the app, you have to insert your program infos (Name, Author...), the
 
 ## Windows Installation
 To install the software, you have to chose the release wich you prefer from the releases section, then download the `NPTESetup{version}.exe` and execute him. You can also download the zip file with the Python file and the assets folder.
+
+## How To install from Winget
+Use the following command: `winget install Anakin-bb8.NPTE`
 
 # MacOS
 
