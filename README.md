@@ -37,9 +37,6 @@
 
 [System requirements](#requirements)
 
-# Now avaiable on MacOS!
-To install, go in the release section and download the latest version (Is highly raccomended to follow the instructions below) NOTE: On macos, if you want to set the icon from a .png or .jpeg file you will need to install the imageio plugin with: `pip3 install imageio`.
-
 # Description
 This software is completely developed in Python language and converted in `.exe` with the nuitka Python library.
 The app is made to simplify the creation of Windows executables.
@@ -61,6 +58,7 @@ Use the following command: `winget install Anakin-bb8.NPTE`
 
 ## How to use on MacOS
 To utilize the app, you have to insert your program infos (Name, Author...), then click on the "Start Build" button. The software will create a `Build.sh` file, that you have to execute to convert your Python script into a fully working MacOS application!
+(Be sure to check all requirements for the app)
 
 ![Schermata 2024-09-24 alle 18 40 07](https://github.com/user-attachments/assets/78a2de14-f0f5-4954-a564-5d589784d522)
 
