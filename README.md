@@ -16,7 +16,7 @@
 ## Collaborators are welcome! 😊
 
 ## Support me:
-<a href="https://ko-fi.com/anakinbb8"><img src="Icons/support_me_on_kofi_badge_beige.png" width="135" ></a>
+<a href="https://ko-fi.com/anakinbb8"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png" width="200" ></a>
 
 # Table of Contents:
 [Description](#description)
