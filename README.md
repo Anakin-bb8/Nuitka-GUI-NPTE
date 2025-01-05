@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/stars/Anakin-bb8/Nuitka-GUI-NPTE?label=Stars&color=7AE582&style=social" alt="Stars">
   <br>
   <br>
-  <a href="#how-to-install-from-winget"><img src="Icons/Get_On_Winget.png" width="250" alt="Get on Winget"></a>
+  <a href="#how-to-install-from-winget"><img src="Icons/Get_On_Winget.png" width="200" alt="Get on Winget"></a>
   <br>
 </p>
 
