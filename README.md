@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://anakin-bb8.github.io/Nuitka-GUI-NPTE/"><img src="Icons/icon.png" alt="Icona App" width="170" height="170"></alt>
+  <a href="https://anakin-bb8.github.io/Nuitka-GUI-NPTE/"><img src="Icons/icon.png" alt="Icona App" width="170" height="170"></a>
   <br>
   <br>
   <a href="https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases"><img src="https://img.shields.io/github/v/release/Anakin-bb8/Nuitka-GUI-NPTE?label=Latest%20Release&color=informational&style=flat-square" alt="Latest Release"></a>
@@ -13,11 +13,12 @@
   <br>
 </p>
 
-
-## Visit the official site: [NPTE](https://anakin-bb8.github.io/Nuitka-GUI-NPTE/)
-
 ## Collaborators are welcome! 😊
-# Contents:
+
+## Support me:
+<a href="https://ko-fi.com/anakinbb8"><img src="Icons/support_me_on_kofi_badge_beige.png" width="135" ></a>
+
+# Table of Contents:
 [Description](#description)
 <details>
   <summary>Windows</summary>
