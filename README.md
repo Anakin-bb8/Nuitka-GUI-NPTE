@@ -51,7 +51,7 @@ To utilize the app, you have to insert your program infos (Name, Author...), the
 To install the software, you have to chose the release wich you prefer from the releases section, then download the `NPTESetup{version}.exe` and execute him. You can also download the zip file with the Python file and the assets folder.
 
 ## How To install from Winget
-Use the following command: `winget install Anakin-bb8.NPTE`
+<img src="Icons/Winget-install.png" width=450>
 
 # MacOS
 
