@@ -2,21 +2,21 @@
   <a href="https://anakin-bb8.github.io/Nuitka-GUI-NPTE/"><img src="Icons/icon.png" alt="Icona App" width="170" height="170"></a>
   <br>
   <br>
-  <a href="https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases"><img src="https://img.shields.io/github/v/release/Anakin-bb8/Nuitka-GUI-NPTE?label=Latest%20Release&color=informational&style=flat-square" alt="Latest Release"></a>
-  <img src="https://img.shields.io/github/downloads/Anakin-bb8/Nuitka-GUI-NPTE/total?style=flat-square&color=informational" alt="Downloads">
-  <img src="https://img.shields.io/github/issues/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=critical&style=flat-square" alt="Open Issues">
-  <img src="https://img.shields.io/github/issues-closed/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=green&style=flat-square" alt="Closed Issues">
-  <img src="https://img.shields.io/github/stars/Anakin-bb8/Nuitka-GUI-NPTE?label=Stars&color=7AE582&style=social" alt="Stars">
+  <img src="https://img.shields.io/github/license/Anakin-bb8/Nuitka-GUI-NPTE">
+  <a href="https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases"><img src="https://img.shields.io/github/v/release/Anakin-bb8/Nuitka-GUI-NPTE?label=Release"></a>
+  <img src="https://img.shields.io/github/downloads/Anakin-bb8/Nuitka-GUI-NPTE/total?" alt="Downloads">
+  <img src="https://img.shields.io/github/issues/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=critical" alt="Open Issues">
+  <img src="https://img.shields.io/github/issues-closed/Anakin-bb8/Nuitka-GUI-NPTE?label=Issues&color=green" alt="Closed Issues">
   <br>
   <br>
   <a href="#how-to-install-from-winget"><img src="Icons/Get_On_Winget.png" width="200" alt="Get on Winget"></a>
   <br>
+  <br>
+  <a href="https://ko-fi.com/anakinbb8"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png" width="220" ></a>
+  <br>
 </p>
 
-## Collaborators are welcome! 😊
-
-## Support me:
-<a href="https://ko-fi.com/anakinbb8"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png" width="200" ></a>
+---
 
 # Table of Contents:
 [Description](#description)
@@ -51,7 +51,10 @@ To utilize the app, you have to insert your program infos (Name, Author...), the
 To install the software, you have to chose the release wich you prefer from the releases section, then download the `NPTESetup{version}.exe` and execute him. You can also download the zip file with the Python file and the assets folder.
 
 ## How To install from Winget
-<img src="Icons/Winget-install.png" width=450>
+```
+winget install Anakin-bb8.NPTE
+```
+
 
 # MacOS
 
@@ -76,3 +79,12 @@ You can also install the app via the .dmg file (you can find it in the MacOS fol
 - XCode Command Line Tools (on MacOS)
 - Windows 10/11 x64
 - MacOS 10.13 High Sierra or higher
+
+[shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
+[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/bloxstraplabs/bloxstrap/ci-release.yml?branch=main&label=builds
+[shield-repo-releases]: https://img.shields.io/github/downloads/bloxstraplabs/bloxstrap/latest/total?color=981bfe
+[shield-repo-latest]:   https://img.shields.io/github/v/release/bloxstraplabs/bloxstrap?color=7a39fb
+
+[shield-crowdin-status]: https://badges.crowdin.net/bloxstrap/localized.svg
+[shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
+[shield-tenor-meme]:     https://img.shields.io/badge/mom_made-pizza_rolls-orange
