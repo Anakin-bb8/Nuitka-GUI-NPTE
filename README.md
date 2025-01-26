@@ -14,9 +14,7 @@
   <br>
   <a href="#how-to-install-from-winget"><img src="Icons/Get_On_Winget.png" width="200" alt="Get on Winget"></a>
   <br>
-  <br>
-  <a href="https://ko-fi.com/anakinbb8"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png" width="220" ></a>
-  <br>
+
 </p>
 
 ---
