@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download NPTE are this GitHub repository and [anakin-bb8.github.io](https://anakin-bb8.github.io/Nuitka-GUI-NPTE/). Any other websites offering downloads or claiming to be me are not controlled by me.
+> The only official places to download NPTE are this GitHub repository, [anakin-bb8.github.io](https://anakin-bb8.github.io/Nuitka-GUI-NPTE/) and Winget. Any other websites offering downloads or claiming to be me are not controlled by me.
 
 <p align="center">
   <a href="https://anakin-bb8.github.io/Nuitka-GUI-NPTE/"><img src="Icons/icon.png" alt="Icona App" width="170" height="170"></a>
