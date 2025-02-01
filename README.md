@@ -46,7 +46,7 @@ The app is made to simplify the creation of Windows executables.
 ## How to use on Windows
 To utilize the app, you have to insert your program infos (Name, Author...), then click on the "Start Build" button. The software will create a `Build.bat` file, that you have to execute to convert your Python script into a fully working Windows application!
 
-![Screenshot 2024-12-07 120904](https://github.com/user-attachments/assets/57078c6d-cccb-4299-8d21-875502c748cc)
+<img src="Icons/Screenshot 2025-01-19 120921.png" width=550>
 
 ## Windows Installation
 To install the software, you have to chose the release wich you prefer from the releases section, then download the `NPTESetup{version}.exe` and execute him. You can also download the zip file with the Python file and the assets folder.
