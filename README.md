@@ -20,73 +20,107 @@
 
 ---
 
-# Table of Contents:
-[Description](#description)
+# Table of Contents
+Go read the [full documentation](https://anakin-bb8.gitbook.io/npte)
+
+[Description](#about-npte)
+
+[System requirements](#system-requirements)
 <details>
   <summary>Windows</summary>
 
-  - [How to use](#how-to-use-on-windows)
+  - [How to use](#using-npte-on-windows)
   - [Installation](#windows-installation)
-  - [Winget Installation](#how-to-install-from-winget)
+  - [Winget Installation](#install-via-winget)
 </details>
 <details>
   <summary>MacOS</summary>
 
-  - [How to use](#how-to-use-on-macos)
+  - [How to use](#using-npte-on-macos)
   - [Installation](#macos-installation)
 </details>
 
-[System requirements](#requirements)
+[Contributing](#contributing)
 
-# Description
-This software is completely developed in Python language and converted in `.exe` with the nuitka Python library.
-The app is made to simplify the creation of Windows executables.
+---
 
-# Windows
+## About NPTE
 
-## How to use on Windows
-To utilize the app, you have to insert your program infos (Name, Author...), then click on the "Start Build" button. The software will create a `Build.bat` file, that you have to execute to convert your Python script into a fully working Windows application!
+**NPTE (Nuitka Python Executable Tool)** is a GUI application developed entirely in **Python** and compiled into a standalone `.exe` or `.app` using **Nuitka**.
+It simplifies the process of converting your Python scripts into fully functional executables for **Windows** and **macOS**.
 
-<img src="Icons/Screenshot 2025-01-19 120921.png" width=550>
+---
 
-## Windows Installation
-To install the software, you have to chose the release wich you prefer from the releases section, then download the `NPTESetup{version}.exe` and execute him. You can also download the zip file with the Python file and the assets folder.
+## System Requirements
 
-## How To install from Winget
-```
+| Platform    | Minimum Requirements                                                                  |
+| ----------- | ------------------------------------------------------------------------------------- |
+| **Windows** | Windows 10/11 (x64), Python 3.x or higher                                             |
+| **macOS**   | macOS 10.13 (High Sierra) or newer, Python 3.x, `Imageio`, `Xcode Command Line Tools` |
+| **General** | Nuitka library installed                                                              |
+
+---
+
+## Installation
+
+### Windows Installation
+
+1. Go to the [Releases](https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases) section.
+2. Download the latest `NPTESetup{version}.exe` file.
+3. Run the installer and follow the setup instructions.
+4. Alternatively, download the ZIP archive containing the Python source and assets folder.
+
+### Install via Winget
+
+```bash
 winget install Anakin-bb8.NPTE
 ```
 
+### macOS Installation
 
-# MacOS
+1. Download the `.pkg` installer from the [Releases](https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases) page.
+2. Double-click the installer to begin installation.
+3. If macOS blocks the app, go to **System Settings → Privacy & Security → Open Anyway**.
+4. Alternatively, you can use the `.dmg` file available in the MacOS folder.
 
-## How to use on MacOS
-To utilize the app, you have to insert your program infos (Name, Author...), then click on the "Start Build" button. The software will create a `Build.sh` file, that you have to execute to convert your Python script into a fully working MacOS application!
-(Be sure to check all requirements for the app)
+---
 
-![Schermata 2024-09-24 alle 18 40 07](https://github.com/user-attachments/assets/78a2de14-f0f5-4954-a564-5d589784d522)
+## How to Use
 
-## MacOS Installation
-You can install the software by the .pkg file:
-- Go to the releases section and download the `NPTEInstaller{version}.pkg` file,
-- Double click it.
-- To allow the opening of the file, you'll have to go to the setting, then privacy and security, and click on "Open anyways".
+### Using NPTE on Windows
 
-You can also install the app via the .dmg file (you can find it in the MacOS folder).
+1. Enter your project details (Name, Author, etc.).
+2. Click **Start Build**.
+3. The app generates a `Build.bat` file; run it to compile your Python script into a standalone Windows executable.
 
-# Requirements
-- Python 3.* or higher
-- Nuitka
-- Imageio (on MacOS)
-- XCode Command Line Tools (on MacOS)
-- Windows 10/11 x64
-- MacOS 10.13 High Sierra or higher
+<img src="Icons/Screenshot 2025-01-19 120921.png" width="550">
 
-[shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
-[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/bloxstraplabs/bloxstrap/ci-release.yml?branch=main&label=builds
-[shield-repo-releases]: https://img.shields.io/github/downloads/bloxstraplabs/bloxstrap/latest/total?color=981bfe
-[shield-repo-latest]:   https://img.shields.io/github/v/release/bloxstraplabs/bloxstrap?color=7a39fb
+---
 
-[shield-crowdin-status]: https://badges.crowdin.net/bloxstrap/localized.svg
-[shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
-[shield-tenor-meme]:     https://img.shields.io/badge/mom_made-pizza_rolls-orange
+### Using NPTE on macOS
+
+1. Enter your project details (Name, Author, etc.).
+2. Click **Start Build**.
+3. The app generates a `Build.sh` file; execute it to create your macOS application.
+
+> Make sure all required dependencies are installed before building.
+
+![macOS Example](https://github.com/user-attachments/assets/78a2de14-f0f5-4954-a564-5d589784d522)
+
+---
+
+## Contributing
+
+If you’d like to contribute:
+
+1. Fork this repository.
+2. Create a feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes and open a Pull Request.
+
+Bug reports and feature suggestions are also welcome in the [Issues section](https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/issues).
+
+---
+
+## License
+
+This project is released under the [MIT License](LICENSE).
