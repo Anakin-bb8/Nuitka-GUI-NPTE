@@ -17,9 +17,10 @@ document.getElementById('version').addEventListener('click', function() {
     } else if (platform === "MacOS") {
         downloadLink = "https://github.com/Anakin-bb8/Nuitka-GUI-NPTE/releases/download/NPTE1.0.6.0/NPTEInstaller1.2.pkg";
     } else {
-        alert("La tua piattaforma non è supportata.");
+        alert("Your platform isn't supported.");
         return;
     }
     window.location.href = downloadLink;
 });
+
 
